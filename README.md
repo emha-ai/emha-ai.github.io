@@ -1,16 +1,17 @@
-# mheriyanto.github.io
+# emha-ai.github.io
 
-![GitHub](https://img.shields.io/github/license/mheriyanto/mheriyanto.github.io.svg)
-![GitHub language count](https://img.shields.io/github/languages/count/mheriyanto/mheriyanto.github.io.svg)
-![GitHub top language](https://img.shields.io/github/languages/top/mheriyanto/mheriyanto.github.io.svg)
-[![HitCount](http://hits.dwyl.io/mheriyanto/mheriyantogithubio.svg)](http://hits.dwyl.io/mheriyanto/mheriyantogithubio)
+![GitHub](https://img.shields.io/github/license/emha-ai/emha-ai.github.io.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/emha-ai/emha-ai.github.io.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/emha-ai/emha-ai.github.io.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Femha-ai%2Femha-ai.github.io&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/mheriyanto/mheriyanto.github.io)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mheriyanto/mheriyanto.github.io)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/emha-ai/emha-ai.github.io)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/emha-ai/emha-ai.github.io)
 
 MIT License
 
-Copyright (c) 2018 [Prateek Mishra](https://github.com/0xPrateek), 2019 modified by [M. Heriyanto](https://github.com/mheriyanto) 
+Copyright (c) 2018 [Prateek Mishra](https://github.com/0xPrateek)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
