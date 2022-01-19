@@ -541,13 +541,13 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 .meter > span {
   display: block;
-  height: 80%;
+  height: 90%;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
   border-radius: 4px;
   position: relative;
   overflow: hidden;
-  font-size: 12px;
+  font-size: 14px;
 }
 .meter > span  > span{
   margin-left: 4px;
